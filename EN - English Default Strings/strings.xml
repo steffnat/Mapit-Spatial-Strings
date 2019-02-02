@@ -4,7 +4,7 @@
     <string name="about_message">Mapit Spatial - Geopackage Manager version {0}\n\nContact us\n\nemail:\nfeedback@mapitgis.com
     </string>
     <string name="pm_list_empty3">To save field you need to provide a name and add one or more values.\nPlease press the \'Add\' button to add values to the list.</string>
-    <string name="field_value_blank">Field value cannot be blank.</string>
+    <string name="field_value_blank">The field value cannot be blank.</string>
     <string name="deleteAttWarning">There is {0} layer(s) using this attributes set - Operation cannot be completed.</string>
     <string name="editProjectWarning">You are trying to edit project which does contain underlying data. It\'s highly recommended that you do not change the attributes now.\n\nYour existing data may get inconsistent with new definitions.\n\nAre you sure you would like to continue?</string>
     <string name="editAttributeSet">Edit Attribute</string>
