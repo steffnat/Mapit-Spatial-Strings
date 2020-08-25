@@ -16,6 +16,8 @@
         <item>WGS84(lat,lon) - D\u00b0M\'S.ss</item>
         <item>Web mercator</item>
         <item>British National Grid</item>
+        <item>UTM ETRS89 - Zone XY</item>
+        <item>UTM (MGRS) - NATO</item>
         <item>Custom: EPSG code</item>
     </string-array>
     <string-array name="cords_sr_values">
@@ -24,6 +26,8 @@
         <item>43262</item>
         <item>3857</item>
         <item>27700</item>
+        <item>43263</item>
+        <item>43264</item>
         <item>2147483646</item>
     </string-array>
 
@@ -34,7 +38,9 @@
         <item>Web mercator</item>
         <item>JTSK - 5514 Slovakia</item>
         <item>JTSK03 &#8211; 8353 Slovakia</item>
-        <item>Custom: EPSG code</item>
+        <item>UTM ETRS89 - Zone XY</item>
+        <item>UTM (MGRS) - NATO</item>
+
     </string-array>
     <string-array name="cords_sr_values_geotech">
         <item>4326</item>
@@ -43,7 +49,8 @@
         <item>3857</item>
         <item>5514</item>
         <item>8353</item>
-        <item>2147483646</item>
+        <item>43263</item>
+        <item>43264</item>
     </string-array>
 
 
