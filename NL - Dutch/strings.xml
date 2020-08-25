@@ -911,7 +911,7 @@
     <string name="newFolder">Nieuwe map</string>
     <string name="newFolderName">Nieuwe mapnaam</string>
     <string name="newLayerActive">Nieuw aangemaakte laag als actief instellen</string>
-    <string name="navigateToFeatureOnToolbar">Toon optie \'Navigeer naar feature\' op kaart werbalk.</string>
+    <string name="navigateToFeatureOnToolbar">Toon optie \'Navigeer naar feature\' op kaartwerkbalk.</string>
     <string name="file_type_txt">TXT Bestanden</string>
    
     <!-- END of missing -->
