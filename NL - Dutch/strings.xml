@@ -901,10 +901,7 @@
     <string name="importGeopackageExists">Bestaat al in Geopackages map - verwijder bestaande geopackage vooraleer te importeren.\n\nUit voorzorg zal Mapit de gegevens niet automatisch overschrijven.</string>
     <string name="featureGeometryInvalid">De geometrie van het object is ongeldig en zal verwijderd worden als je de editeer-sessie nu stopt. Wil je verdergaan?</string>
 
-  
-    <!-- Mapit SPATIAL Missing in Dutch Below-->
-
-	<string name="voiceInputTitle">Spraakinvoer aanzetten voor Tekstvelden.</string>
+    <string name="voiceInputTitle">Spraakinvoer aanzetten voor Tekstvelden.</string>
     <string name="licenceDeviceIDDoesNotMatch">In een aantal gevallen kan het toestel-ID veranderen.\n\nHet lijkt erop dat je licentie niet vervallen is, maar het toestel-ID komt niet overeen met het toestel-ID bij de activatie {0}.\n\nWil je een verzoek sturen naar de licentieserver om de licentie-informatie bij te werken en een nieuw activatiebestand te downloaden?\n\nJe huidig toestel-ID is:\n{1}</string>
     <string name="resetLicenceNow">Licentie nu opnieuw instellen</string>
     <string name="saveAs">Opslaan als</string>
@@ -913,6 +910,9 @@
     <string name="newLayerActive">Nieuw aangemaakte laag als actief instellen</string>
     <string name="navigateToFeatureOnToolbar">Toon optie \'Navigeer naar feature\' op kaartwerkbalk.</string>
     <string name="file_type_txt">TXT Bestanden</string>
+  
+    <!-- Mapit SPATIAL Missing in Dutch Below-->
+
    
     <!-- END of missing -->
 
