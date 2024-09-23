@@ -14,7 +14,7 @@
         <item>WGS84(lat,lon) - D.dddd</item>
         <item>WGS84(lat,lon) - D\u00b0M.mm</item>
         <item>WGS84(lat,lon) - D\u00b0M\'S.ss</item>
-        <item>Web mercator</item>
+        <item>Web Mercator</item>
         <item>British National Grid</item>
         <item>Custom: EPSG code</item>
     </string-array>
@@ -67,9 +67,9 @@
         <item>6</item>
     </string-array>
     <string-array name="measureMethod">
-        <item>Tap on the map</item>
-        <item>GPS points</item>
-        <item>Map cursor</item>
+        <item>Auf die Karte tippen</item>
+        <item>GPS Punkte</item>
+        <item>Karten Cursor</item>
     </string-array>
     <string-array name="measureMethodValues">
         <item>0</item>
