@@ -69,7 +69,7 @@
     <string-array name="measureMethod">
         <item>Auf die Karte tippen</item>
         <item>GPS Punkte</item>
-        <item>Karten Cursor</item>
+        <item>Karten-Cursor</item>
     </string-array>
     <string-array name="measureMethodValues">
         <item>0</item>
