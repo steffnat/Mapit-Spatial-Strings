@@ -26,27 +26,6 @@
         <item>27700</item>
         <item>2147483646</item>
     </string-array>
-
-    <string-array name="cords_sr_geotech">
-        <item>WGS84(lat,lon) - D.dddd</item>
-        <item>WGS84(lat,lon) - D\u00b0M.mm</item>
-        <item>WGS84(lat,lon) - D\u00b0M\'S.ss</item>
-        <item>Web mercator</item>
-        <item>JTSK - 5514 Slovakia</item>
-        <item>JTSK03 &#8211; 8353 Slovakia</item>
-        <item>Custom: EPSG code</item>
-    </string-array>
-    <string-array name="cords_sr_values_geotech">
-        <item>4326</item>
-        <item>43261</item>
-        <item>43262</item>
-        <item>3857</item>
-        <item>5514</item>
-        <item>8353</item>
-        <item>2147483646</item>
-    </string-array>
-
-
     <string-array name="areaUnits">
         <item>Square meters - [ m2 ]</item>
         <item>Hectars - [ ha ]</item>
@@ -57,7 +36,6 @@
         <item>Square feet - [ ft2 ]</item>
         <item>Square nautical mile - [ nmi2 ]</item>
         <item>Square sazhen - [ saz2 ]</item>
-        <item>Chinese Mu - [ Mu ]</item>
     </string-array>
     <string-array name="areaUnitsValues">
         <item>0</item>
@@ -69,24 +47,7 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
-        <item>9</item>
     </string-array>
-
-
-    <string-array name="areaUnitsGeotech">
-        <item>Square meters - [ m2 ]</item>
-        <item>Hectars - [ ha ]</item>
-        <item>Ares - [ a ]</item>
-        <item>Square kilometers - [ km2 ]</item>
-    </string-array>
-    <string-array name="areaUnitsValuesGeotech">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-
-
 	 <string-array name="lengthUnits">
         <item>Meters - [ m ]</item>
         <item>Yards - [ yd ]</item>
@@ -105,18 +66,6 @@
         <item>5</item>
         <item>6</item>
     </string-array>
-
-    <string-array name="lengthUnitsGeotech">
-        <item>Meters - [ m ]</item>
-        <item>Kilometers - [ km ]</item>
-
-    </string-array>
-    <string-array name="lengthUnitsValuesGeotech">
-        <item>0</item>
-        <item>2</item>
-
-    </string-array>
-
     <string-array name="measureMethod">
         <item>Tap on the map</item>
         <item>GPS points</item>
